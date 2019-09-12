@@ -1,8 +1,8 @@
 ## Backend
-Open `java-spring-back`
-Run `chatApp`.
+Open `spring-back` and then:
+run `chatApp`.
 
 ## Frontend
-Open `vue-frontend` and then:
+Open `vue-front` and then:
 * `npm install`
 * `npm run dev`
